@@ -1,0 +1,47 @@
+
+
+.sector{
+    margin-top: 10px;
+    background-color:#0066FF;
+    padding-left:5px;
+    padding-right:5px;
+    height:500;
+    width:400;
+    border:2px solid #0A0A66;
+    text-align:left;
+    }
+.sector h3{
+    color: white;
+    margin-left:5px;
+}
+
+.sistema{
+    display:inline-block;
+    margin-top:5px;
+    background-color:#0066FF;
+    padding-left:5px;
+    padding-right:5px;
+    height:250px;
+    width:300px;
+    border:2px solid #0A0A66;
+    
+}
+
+.sumidero p{
+    color: white;
+    font-size:10px;
+}
+.sumidero{
+    margin: 2px;
+    display: inline-block;
+    }
+ .cuad{
+    margin-top:20px;
+    background-color:greenyellow;
+    height:30px;
+    width:30px;
+    border:2px solid #0A0A66;
+    }
+    .cuad:hover{
+        border:3px solid #0A0A66;
+    }

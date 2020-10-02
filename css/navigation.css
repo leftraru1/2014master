@@ -1,0 +1,28 @@
+.nav{
+    height:57px;
+    background-color:#0A0A66;
+    border-bottom: 2px solid #0066FF;
+    }
+.nav .container{
+    margin-top:3px
+}
+.nav a {
+  color: #0066FF;
+  font-size: 17px;
+  font-family:  sans-serif,'League Gothic',FrutigerLTStd-LightCn, Arial;
+  font-weight: bold;
+  margin-top:px;
+  padding:20px 15px;
+  text-transform: uppercase;
+}
+
+.nav a:hover{
+        
+        color:white;
+        text-decoration:none;
+        background-color:#0066FF;
+    }
+
+.nav li {
+  display: inline;
+}

@@ -1,0 +1,18 @@
+.btn{
+    background-color:#0066FF;
+    padding-left:30px;
+    height:300px;
+    width:400px;
+    text-align:left;
+    border:2px solid #0A0A66;
+    margin-left:80px;
+
+}
+.btn h1{
+    margin-top:30px;
+    
+}
+.btn:hover{
+    border:5px solid #0A0A66;
+
+}

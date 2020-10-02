@@ -1,0 +1,120 @@
+#info{
+    
+    height: 200px;
+    border:3px solid red;
+}
+
+#feed{
+
+    height:500px;
+    border:3px solid blue;
+    }
+    #avisos{
+        height:400px;
+        border:2px solid green;
+    }
+    
+    #alertas{
+        height:300px;
+        border:2px solid orange;
+    }
+    #responsables{
+        height:300px;
+        border:2px solid brown;
+        
+    }
+    #avisos .scroll{
+        width:350px;
+        height:400px;
+        overflow: scroll;
+        background-color:green;
+        color:#714D03;
+        border:4px double green;
+    }
+    #alertas .scroll{
+        width:350px;
+        height:400px;
+        overflow:scroll;
+        background-color:orange;
+        color:#714D03;
+        border:4px double orange;
+    }
+    #responsables .scroll{
+        width:350;
+        height:400px;
+        overflow:scroll;
+        background-color:brown;
+        color:#714D03;
+        border:4px double brown;
+    }
+    .subAlert{
+        color: #222;
+  background: rgba(255,255,255,.9);
+  border-spacing: 2px;
+  border-color: gray;
+  font-family: arial,sans-serif;
+  border-bottom: 1px #e5e5e5 solid;
+    }
+    .descripcion{
+        display:none;
+    }
+    
+
+.nav{
+    height:57px;
+    background-color:#0A0A66;
+    border-bottom: 2px solid #0066FF;
+    }
+.nav .container{
+    margin-top:3px;
+}
+.nav a {
+  color: #0066FF;
+  font-size: 17px;
+  font-family:  sans-serif,'League Gothic',FrutigerLTStd-LightCn, Arial;
+  font-weight: bold;
+  padding:20px 15px;
+  text-transform: uppercase;
+}
+
+.nav a:hover{
+        
+        color:white;
+        text-decoration:none;
+        background-color:#0066FF;
+    }
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://launionmc.files.wordpress.com/2014/04/essbio.jpg?w=550&h=352');
+  height: 1000px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:10px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron h3 {
+  color: #fff;
+  font-size: 24px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron >p {
+  font-size: 20px;
+  color: #fff;
+}
